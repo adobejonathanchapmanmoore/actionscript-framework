@@ -1,7 +1,0 @@
-package com.wunderman.coreimplementation.data.dataInterface {
-	import com.wunderman.core.data.IStorage;	
-	
-	public interface IFeaturesStorage extends IStorage {
-		function getArray():Array;
-	}
-}
